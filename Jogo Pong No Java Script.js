@@ -109,5 +109,3 @@ function marcaPonto(){
     pontosDoOponente += 1;
   }
 }
-
-//professor eu tentei fazer de tudo pra fazer a colisao da outra raquete, fiz igual a do alura, fiz diferente e nao deu certo entao ficou assim mesmo
